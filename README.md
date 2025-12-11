@@ -35,3 +35,5 @@ Define relationships using primary and foreign keys with correct cardinality.
   - Slicers for Product, Date, Customer ID, and Promotion Categories.
   - Customized interactions among visuals to avoid unwanted filtering.
   - Enhanced user experience with clear navigation and filter behaviors between dimension tables.
+
+<img width="610" height="331" alt="image" src="https://github.com/user-attachments/assets/acd89fe9-1611-417a-90cc-fc7ba8b02d40" />
